@@ -29,7 +29,6 @@ POSTGRES_PASSWORD=your_postgres_password
 POSTGRES_HOST=db
 POSTGRES_PORT=5432
    ```
-
 2. Create a docker image and run:
 
 ```
