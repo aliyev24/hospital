@@ -1,6 +1,6 @@
 # hospital
 #Features
-- [x] JWT authentication
+- [x] ***JWT*** authentication
 
 # Build with
 * Django REST
