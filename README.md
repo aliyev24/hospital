@@ -6,7 +6,6 @@ _ _ _ _ _ _ _ _ _ _ _
 - [x] **Search** for Patient Information
 - [x] **Calculation** of treatment and services costs provided
 _ _ _ _ _ _ _ _ _ _ _
-
 ### Build with
 * Django REST
 * Postgres
