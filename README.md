@@ -6,7 +6,7 @@
 - [x] Deparments
 - [x] Services
 - [x] Doctors
-##### For doctor:
+#### For doctor:
 - [x] Apointments assigned to doctor for today
 - [x] **Search** and view for Patient's Information
 - [x] Doctor can leave **comment** on Patient's condition
