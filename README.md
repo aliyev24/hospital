@@ -1,15 +1,9 @@
-# hospital
+# hospital management
+Appointments created by admin assigned to doctors. Doctor can view appointments assigned for today. Doctor can leave comment on patient's condition and add treatment or service provided to patient during appointment. Doctor can search and view all patient data.
 # Features
 - [x] **JWT** authentication
 - [x] **Search** for Patient Information
 - [x] **Calculation** of treatment and services costs provided
-- [x] Apointments assigned to doctor for today
-- [x] **Search** and view for Patient's Information
-- [x] Doctor can leave **comment** on Patient's condition
-- [x] Doctor can add treatment conducted or service provided during appointment
-#### For admin:
-- [x] Setting appointment for patients
-- [x] Add patient to database
 
 # Build with
 * Django REST
