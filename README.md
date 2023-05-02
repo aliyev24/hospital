@@ -1,11 +1,11 @@
 # Hospital management
+#### For doctor
+* Apointment list for today
+* Can leave comment on patient's condition and add treatment conducted to patient during appointment
+* Search and view all patient data
 #### For admin
 * Creating and assigning apointments to doctors.
 * Create patient record
-#### For doctor
-* Apointment list for today
-* Doctor can leave comment on patient's condition and add treatment conducted or service provided to patient during appointment
-* Search and view all patient data
 _ _ _ _ _ _ _ _ _ _ _ 
 ### Features
 - [x] **JWT** authentication
