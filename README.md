@@ -1,4 +1,4 @@
-# Hospital management functions
+# Hospital management
 #### For admin
 * Creating and assigning apointments to doctors.
 * Create patient record
