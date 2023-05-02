@@ -1,8 +1,11 @@
-# Hospital management
-* Appointments created by admin assigned to doctors.
-* Doctor can view appointments assigned for today.
-* Doctor can leave comment on patient's condition and add treatment or service provided to patient during appointment.
-* Doctor can search and view all patient data.
+# Hospital management functions
+####For admin
+* Creating and assigning apointments to doctors.
+* Create patient record
+####For doctor
+* Apointment list for today
+* Doctor can leave comment on patient's condition and add treatment conducted or service provided to patient during appointment
+* Search and view all patient data
 _ _ _ _ _ _ _ _ _ _ _ 
 ### Features
 - [x] **JWT** authentication
