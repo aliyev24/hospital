@@ -26,13 +26,13 @@ _ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _ _
 
-### Build with
+### Tech stack
 * Django REST
 * Postgres
 * Docker
 * Unit testing
 * Python
-* 
+
 _ _ _ _ _ _ _ _ _ _ _
 
 ### Installation
